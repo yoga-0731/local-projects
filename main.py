@@ -10,7 +10,6 @@ menu = Menu()
 
 while not turn_off:
     print("Welcome 😁 !!!")
-
     prompt = input(f"What would you like? ({menu.get_items()}): ").lower()
     if prompt == 'report':
         coffee_maker_obj.report()
