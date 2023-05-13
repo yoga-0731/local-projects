@@ -18,12 +18,6 @@ print(f"Quiz is complete!\nYour final score is: {quiz_obj.score}/{len(question_b
 
 
 
-
-
-
-
-
-
 # CREATING CLASS AND CLASS ATTRIBUTES AND METHODS
 # class User:
 #     def __init__(self, id, name):
